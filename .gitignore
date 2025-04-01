@@ -1,0 +1,5 @@
+.cache/
+raylib-5.5*/
+compile_commands.json
+game_of_life
+*.o
