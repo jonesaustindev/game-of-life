@@ -4,6 +4,12 @@ Taking a go at [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_
 
 I'm sure there are more elegant ways to go about it, but it was fun to think through.
 
+
+
+https://github.com/user-attachments/assets/f79ed730-0eaa-473e-a036-7dd4e793cc97
+
+
+
 ## Running the game
 If you are wanting to run this locally, you can follow these steps after cloning the repo:
 
